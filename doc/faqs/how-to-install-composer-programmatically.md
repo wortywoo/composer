@@ -26,7 +26,7 @@ rm composer-setup.php
 exit $RESULT
 ```
 
-The script will exit with 1 in case of failure, or 0 on success, and is quiet
+The script will exit with 1 in case of failure, or 0 on success, and is
 if no error occurs.
 
 Alternatively, if you want to rely on an exact copy of the installer, you can fetch
